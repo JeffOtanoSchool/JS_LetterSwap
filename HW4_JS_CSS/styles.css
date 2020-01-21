@@ -1,0 +1,20 @@
+#listArea{
+    height: 200px;
+    background-image: linear-gradient(yellow, blue);
+}
+
+#introSection{
+    display: block;
+}
+
+#swapSection{
+    display: none;
+    height: 200px;
+    background-image: linear-gradient(Red, Gold);
+    font-size: large;
+    font-style: italic;
+}
+
+#change{
+    display: none;
+}
